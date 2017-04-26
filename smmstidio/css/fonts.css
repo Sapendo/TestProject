@@ -1,0 +1,16 @@
+@font-face {
+    font-family: ProximaNovaBl;
+    src: url(./../fonts/ProximaNovaBlack.otf);
+}
+@font-face {
+    font-family: ProximaNovaSB;
+    src: url(./../fonts/ProximaNovaSemibold.otf);
+}
+@font-face {
+    font-family: ProximaNovaReg;
+    src: url(./../fonts/ProximaNovaRegular.otf);
+}
+@font-face {
+    font-family: MadelynFill;
+    src: url(./../fonts/MadelynFill.otf);
+}
